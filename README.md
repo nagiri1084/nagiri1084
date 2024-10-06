@@ -5,6 +5,11 @@
 
 - 📫 How to reach me **nagiri_bap@naver.com**
 
+<h3 align="left">Research Gate:</h3>
+<p align="left">
+<a href="https://www.researchgate.net/profile/Giri-Na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giri na" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giri-n-0883332a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giri na" height="30" width="40" /></a>
